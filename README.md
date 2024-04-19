@@ -48,3 +48,9 @@
 <img src="https://raw.githubusercontent.com/Roosendo/Roosendo/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214bpc4dassvr4qto7epw4yiy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=214bpc4dassvr4qto7epw4yiy&redirect=true)
+
+</div>
