@@ -1,4 +1,14 @@
+<div align="center">
+  <img src="./Rosendo_Garcia.webp" />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Rosendo Garcia and I'm a Software Developer, from El Salvador 🇸🇻.</h2>
+
+###
+
+<p align="left">I'm Rosendo, a web developer from San Miguel, El Salvador. I focus on crafting JavaScript backend solutions, blending functionality with elegance. My journey is fueled by curiosity, innovation, and a commitment to continuous learning.</p>
 
 ###
 
