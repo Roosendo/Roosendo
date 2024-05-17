@@ -1,31 +1,33 @@
 <div align="center">
-  <img src="./Rosendo_Garcia.webp" alt="Rosendo Garcia" />
+
+  ![RosendoGarcia](Rosendo_Garcia.webp)
 </div>
 
-<h2 align="center">Hi 👋! My name is Rosendo Garcia and I'm a Software Developer from El Salvador <img src="https://api.iconify.design/circle-flags:sv.svg?color=%23888888" alt="el salvador flag" /></h2>
+# Hi 👋! My name is Rosendo Garcia and I'm a Software Developer from El Salvador <img src="https://api.iconify.design/circle-flags:sv.svg?color=%23888888" alt="el salvador flag" />
 
-<p align="left">I'm Rosendo, a web developer from San Miguel, El Salvador. I focus on crafting JavaScript backend solutions, blending functionality with elegance. My journey is fueled by curiosity, innovation, and a commitment to continuous learning.</p>
+I'm **Rosendo**, a web developer from San Miguel, El Salvador. I focus on crafting JavaScript backend solutions, blending functionality with elegance. My journey is fueled by curiosity, innovation, and a commitment to continuous learning.
 
-<p align="left">In my free time, I like to:</p>
-<ul align="left">
-  <li>Listen to music</li>
-  <li>Go to the gym</li>
-  <li>Watch amazing series like Dr. House or Invincible</li>
-  <li>Then I feel like coding</li>
-</ul>
+In my free time, I like to:
+  - Listen to music
+  - Go to the gym
+  - Watch amazing series like Dr. House or Invincible
+  - Then I feel like coding
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roosendo&show_icons=true&theme=dracula&hide_border=true&hide=stars" alt="GitHub Stats" />
+
+  ![Roosendo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roosendo&show_icons=true&theme=dracula&hide_border=true&hide=stars)
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roosendo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+
+  ![Roosendo's GitHub language graph](https://github-readme-stats.vercel.app/api/top-langs?username=Roosendo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true)
 </div>
 
 ---
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" alt="Excited cat gif" />
+
+  ![Excited cat gif](https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif)
 </div>
 
 <div align="center">
@@ -55,7 +57,8 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Roosendo/Roosendo/output/snake.svg" alt="Snake animation" />
+
+  ![Snake animation](https://raw.githubusercontent.com/Roosendo/Roosendo/output/snake.svg)
 </div>
 
 <br />
